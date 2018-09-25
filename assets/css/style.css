@@ -1,0 +1,46 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  font-size: 1vw;
+  background-image: url(../images/sayagata-400px.png);
+  background-size: auto;
+}
+
+p {
+  margin-bottom: 0;
+  font-size: 1rem;
+}
+
+img {
+  margin-bottom: .5rem;
+  margin-top: 0;
+}
+
+hr {
+  border-top: .3rem solid black;
+}
+
+.gif-div {
+  float: left;
+  margin-right: 1rem;
+}
+
+#gif-buttons {
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.form-div {
+  width: 30%;
+  float: right;
+  margin: 0 auto;
+}
+
+#gif-section {
+  width: 70%;
+  float: left;
+  margin: 0 auto;
+}
+
+.text-info {
+  font-size: 1rem;
+}
